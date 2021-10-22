@@ -53,7 +53,7 @@ public static void main(String [] args) throws Exception{
 
 //Aufgabe 4.1:
 /*
-Hier habe ich die beiden Reservierungen als Demodaten erstellt. Dabei beziehen sich die Variablen der Demodaten auf die Eigenschaften der jeweiligen Klassen, also Sprich Makler, Käufer und das jeweilige Haus. Die Demodaten dafür habe ich ja bereits wenige Zeilen davor erstellt. Man kann nun auch noch ein Menü dafür erstellen, dass man diese , wie ich sie genannt habe, Häuser- bzw. Wohnungsreservierungen selbst erstellen kann. Jedoch sprengt das heir denke ich den Rahmen, wobei wir ja auch kein Menü erstellen sollten.
+Hier habe ich die beiden Reservierungen als Demodaten erstellt. Dabei beziehen sich die Variablen der Demodaten auf die Eigenschaften der jeweiligen Klassen, also Sprich Makler, Käufer und das jeweilige Haus. Die Demodaten dafür habe ich ja bereits wenige Zeilen davor erstellt. So wird bei der zweiten Hausreservierung dann auch der zweite Käufer für das selbe Haus mit dem selben Makler eingetragen  Man kann nun auch noch ein Menü dafür erstellen, dass man diese , wie ich sie genannt habe, Häuser- bzw. Wohnungsreservierungen selbst erstellen kann. Jedoch sprengt das heir denke ich den Rahmen, wobei wir ja auch kein Menü erstellen sollten.
 
 */
 }
